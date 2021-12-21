@@ -215,8 +215,6 @@
                 });
             }
 
-
-
             //解析查询信息
             function build_emps_table(result){
 
